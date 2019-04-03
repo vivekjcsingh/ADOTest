@@ -76,13 +76,17 @@ namespace addressbookapplication
             com.CommandText = "select * from addbook where id=" +Convert.ToInt32(TextBox1.Text) + "";
             con.Open();
             dr = com.ExecuteReader();
-            con.Close();
-            TextBox2.Text = dr[1].ToString();
-
-            TextBox3.Text = dr[2].ToString();
-            TextBox4.Text = dr[3].ToString();
-            TextBox5.Text = dr[4].ToString();
             
+            while (dr.Read())
+            {
+                TextBox2.Text = dr[1].ToString();
+
+                TextBox3.Text = dr[2].ToString();
+                TextBox4.Text = dr[3].ToString();
+                TextBox5.Text = dr[4].ToString();
+            }
+
+            con.Close();
         }
 
         protected void Button4_Click(object sender, EventArgs e)

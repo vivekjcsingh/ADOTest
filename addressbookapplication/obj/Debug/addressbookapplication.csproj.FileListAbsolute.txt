@@ -18,3 +18,23 @@ c:\users\vivek\documents\visual studio 2015\Projects\addressbookapplication\addr
 c:\users\vivek\documents\visual studio 2015\Projects\addressbookapplication\addressbookapplication\obj\Debug\addressbookapplication.csprojResolveAssemblyReference.cache
 c:\users\vivek\documents\visual studio 2015\Projects\addressbookapplication\addressbookapplication\obj\Debug\addressbookapplication.dll
 c:\users\vivek\documents\visual studio 2015\Projects\addressbookapplication\addressbookapplication\obj\Debug\addressbookapplication.pdb
+C:\Users\vivek\Documents\gic\ado\test\addressbookapplication\addressbookapplication\bin\roslyn\csc.exe
+C:\Users\vivek\Documents\gic\ado\test\addressbookapplication\addressbookapplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vivek\Documents\gic\ado\test\addressbookapplication\addressbookapplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vivek\Documents\gic\ado\test\addressbookapplication\addressbookapplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vivek\Documents\gic\ado\test\addressbookapplication\addressbookapplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vivek\Documents\gic\ado\test\addressbookapplication\addressbookapplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vivek\Documents\gic\ado\test\addressbookapplication\addressbookapplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vivek\Documents\gic\ado\test\addressbookapplication\addressbookapplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vivek\Documents\gic\ado\test\addressbookapplication\addressbookapplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vivek\Documents\gic\ado\test\addressbookapplication\addressbookapplication\bin\roslyn\vbc.exe
+C:\Users\vivek\Documents\gic\ado\test\addressbookapplication\addressbookapplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\vivek\Documents\gic\ado\test\addressbookapplication\addressbookapplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vivek\Documents\gic\ado\test\addressbookapplication\addressbookapplication\bin\addressbookapplication.dll.config
+C:\Users\vivek\Documents\gic\ado\test\addressbookapplication\addressbookapplication\bin\addressbookapplication.dll
+C:\Users\vivek\Documents\gic\ado\test\addressbookapplication\addressbookapplication\bin\addressbookapplication.pdb
+C:\Users\vivek\Documents\gic\ado\test\addressbookapplication\addressbookapplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vivek\Documents\gic\ado\test\addressbookapplication\addressbookapplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vivek\Documents\gic\ado\test\addressbookapplication\addressbookapplication\obj\Debug\addressbookapplication.csprojResolveAssemblyReference.cache
+C:\Users\vivek\Documents\gic\ado\test\addressbookapplication\addressbookapplication\obj\Debug\addressbookapplication.dll
+C:\Users\vivek\Documents\gic\ado\test\addressbookapplication\addressbookapplication\obj\Debug\addressbookapplication.pdb
